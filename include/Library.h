@@ -10,5 +10,6 @@ CHANGELOG:
 #ifndef LIBRARY_H
 #define LIBRARY_H
 
+int myFun(int var);
 
 #endif
