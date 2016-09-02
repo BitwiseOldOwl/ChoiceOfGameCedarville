@@ -110,14 +110,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\src\ChoiceQuestion.cpp" />
     <ClCompile Include="..\..\src\Library.cpp" />
     <ClCompile Include="..\..\src\main.cpp" />
+    <ClCompile Include="..\..\src\MCQuestion.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\include\ChoiceQuestion.h" />
     <ClInclude Include="..\..\include\Includes.h" />
     <ClInclude Include="..\..\include\Library.h" />
+    <ClInclude Include="..\..\include\MCQuestion.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
